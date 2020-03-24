@@ -13,7 +13,6 @@ assignees: ''
 
 **Stage: ${Project Stage}
 
-- [ ] Transfer official domains to OpenJS Foundation
+- [ ] Transfer previously indicated official domains to OpenJS Foundation, if any
 - [ ] If relevant, implement the appropriate tool to enforce CLA or DCO
-- [ ] Transfer trademarks to the OpenJS Foundation
-
+- [ ] Transfer previously indicated trademarks to the OpenJS Foundation, if any
