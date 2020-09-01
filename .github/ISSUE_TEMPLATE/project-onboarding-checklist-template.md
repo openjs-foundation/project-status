@@ -31,3 +31,4 @@ assignees: ''
   * marketing & social media
   * infrastructure
   * legal/governance help
+- [ ] Publish security policy
