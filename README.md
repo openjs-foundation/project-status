@@ -1,5 +1,6 @@
-# project-onboarding
-Public repo to manage the process of onboarding projects
+# project-status
+Public repo to manage the process of onboarding new projects
+and helping Growth stage projects become Impact projects.
 
 ## Resources for onboarding projects
 
