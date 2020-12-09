@@ -10,7 +10,7 @@ So making sure that all Growth requirements are met is a good first step in any 
 
 | Requirement | Current status | Desired status | Plan | Timeline | Completed |
 | --- | ---| --- | --- | --- | --- | 
-| Successfully used in production by at least two independent end users. | {CURRENT_STATUS} | 2 | {PLAN} | {DATE} | <!--✅--> |
+| Project shows substantial adoption in production environments or usage within the ecosystem | {CURRENT_STATUS} | 2 | {PLAN} | {DATE} | <!--✅--> |
 | Substancial ongoing flow of commits and merged contributions. | {CURRENT_STATUS} | {DESIRED_STATUS} | {PLAN} | {DATE} | <!--✅--> |
 | Sufficient level of community participation to meet goals outlined in growth plan. | {CURRENT_STATUS} | {DESIRED_STATUS} | {PLAN} | {DATE} | <!--✅--> |
 | Accepts security reports and publicly disclose them after the fix has been made available. | {CURRENT_STATUS} | {DESIRED_STATUS} | {PLAN} | {DATE} | <!--✅--> |
@@ -21,7 +21,7 @@ So making sure that all Growth requirements are met is a good first step in any 
 | --- | ---| --- | --- | --- | --- | 
 | Governing body of >= 5 members of which no more than 1/3 is affiliated with the same employer. | {CURRENT_STATUS} | {DESIRED_STATUS} | {PLAN} | {DATE} | <!--✅--> |
 | Publicly documented governance, decision-making, contribution, and release processes. | {CURRENT_STATUS} | {DESIRED_STATUS} | {PLAN} | {DATE} | <!--✅--> |
-| Healthy number of committers from at least two organizations. | {CURRENT_STATUS} | {DESIRED_STATUS} | {PLAN} | {DATE} | <!--✅--> |
+| Healthy number of regular committers from at least two organizations. | {CURRENT_STATUS} | {DESIRED_STATUS} | {PLAN} | {DATE} | <!--✅--> |
 | Adopted the Foundation Code of Conduct. | {CURRENT_STATUS} | {DESIRED_STATUS} | {PLAN} | {DATE} | <!--✅--> |
 | Public list of project adopters. | {CURRENT_STATUS} | {DESIRED_STATUS} | {PLAN} | {DATE} | <!--✅--> |
 | {OTHER_METRICS_DEFINED_WITH_CPC} | {CURRENT_STATUS} | {DESIRED_STATUS} | {PLAN} | {DATE} | <!--✅--> |
