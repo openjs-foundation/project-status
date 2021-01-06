@@ -16,6 +16,6 @@ Project which want to move to [Impact stage](https://github.com/openjs-foundatio
 
 * Project fills in the growth plan template. (The growth plan can be hosted on the project's own infrastructure or in the `growth-plan` directory of this repository.)
 * The project decides itself of the goals it sets in the growth plan according to the [Impact stage acceptance criteria](https://github.com/openjs-foundation/cross-project-council/blob/master/PROJECT_PROGRESSION.md#impact-stage) and sets the roadmap for meeting them.
-* The growth plan is then submitted to the Cross Project Council (CPC) for approval by filing a _Project Growth Plan Checklist_ issue in this repository.
+* The growth plan is then submitted to the Cross Project Council (CPC) for approval by filing a _Growth Plan Checklist_ issue in this repository.
 * The CPC regularly checks on the progress of the growth plan according to its [review process](https://github.com/openjs-foundation/cross-project-council/blob/master/PROJECT_PROGRESSION.md#iv-annual-review-process).
 
