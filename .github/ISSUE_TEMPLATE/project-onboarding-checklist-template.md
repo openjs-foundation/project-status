@@ -9,7 +9,7 @@ assignees: ''
 
 ## Project Onboarding Checklist - ${Project Name}
 
-<!--Copied from https://github.com/openjs-foundation/cross-project-council/blob/master/PROJECT_PROGRESSION.md on 2021-01-05 -->
+<!--Copied from https://github.com/openjs-foundation/cross-project-council/blob/HEAD/PROJECT_PROGRESSION.md on 2021-01-05 -->
 
 **Stage: ${Project Stage}
 
