@@ -1,5 +1,5 @@
 ---
-name: Project Post-graduation Checklist Template
+name: Project Post-graduation Checklist
 about: For capturing action items committed to during onboarding but which weren't
   actionable until the project had graduated.
 title: "[POST-GRADUATION] ${Project Name}"
@@ -10,7 +10,7 @@ assignees: ''
 
 ## Project Post-graduation Checklist - ${Project Name}
 
-<!--Copied from ../../PROJECT_PROGRESSION.md on 2019-10-31 -->
+<!--Copied from https://github.com/openjs-foundation/cross-project-council/blob/HEAD/PROJECT_PROGRESSION.md on 2021-02-25 -->
 
 **Stage: ${Project Stage}
 

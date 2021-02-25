@@ -1,5 +1,5 @@
 ---
-name: Project Onboarding Checklist Template template
+name: Project Onboarding Checklist
 about: For capturing action items related to onboarding new / incubating projects
 title: "[ONBOARDING] ${Project Name}"
 labels: ''
