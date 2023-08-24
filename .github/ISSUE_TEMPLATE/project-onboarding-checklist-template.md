@@ -28,7 +28,7 @@ assignees: ''
 - [ ] Add Project to the [CPC repo's README.md](https://github.com/openjs-foundation/cross-project-council/blob/master/README.md#incubating-projects) as an Incubating project
 - [ ] List trademarks the project commits to transfer to the OpenJS Foundation following graduation
 - [ ] If project is using crowdfunding platforms, add disclaimer to platforms
-- [ ] Identify individuals from the project to join the CPC
+- [ ] Identify individuals from the project to join the CPC [by opening an issue in the CPC repository](https://github.com/openjs-foundation/cross-project-council/issues/new)
 - [ ] Document project and foundation contacts for:
   * marketing & social media
   * infrastructure
