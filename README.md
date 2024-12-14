@@ -8,6 +8,10 @@ Public repo to manage the processes of project onboarding and growth plan approv
 
 * [OpenJS Foundation Marketing Support Opportunities](https://docs.google.com/presentation/d/1xWsohwo-SwKjR-GuThi0BVwz3ni7KLp3vIBTuAbMQRY/edit#slide=id.g5ce6a1b7ed_5_14): A presentation from the marketing team about resources available to you to market your project 
 
+## Completed Onboarding Projects
+
+* Express project has completed the onboarding checklist, including the implementation of DCO.
+
 # Growth plan process
 
 Project which want to move to [Impact stage](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/PROJECT_PROGRESSION.md#impact-stage) need to provide and implement a Growth Plan. There is a [growth plan template](GROWTH_PLAN_TEMPLATE.md) available as a starting point.
